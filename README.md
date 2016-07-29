@@ -7,5 +7,5 @@
 ## How to Apply?
 
 * Fork this repository
-* Add your answers to [questions] [questions.md](https://github.com/redpanthers/JoinUs/blob/master/questions.md)
+* Add Your Answers To [questions] [questions.md](https://github.com/redpanthers/JoinUs/blob/master/questions.md)
 * Send a pull request
